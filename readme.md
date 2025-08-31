@@ -1,3 +1,8 @@
+![20241116171026_IMG_8309~3](https://github.com/user-attachments/assets/685d3aa5-c275-45b6-9b4a-f92716755665)
+![InShot_20250601_191345902](https://github.com/user-attachments/assets/28e9308c-ba2f-4c3d-8dd3-7415c45bddec)
+![InShot_20250601_191523840](https://github.com/user-attachments/assets/826a94fa-0fdd-4e0b-ac78-ef3ad86455ba)
+![InShot_20250601_191643066](https://github.com/user-attachments/assets/84430345-5297-49df-82da-6ec20ef12edf)
+![watermark-08a7bb8421979e4608c5d4f155d23b92_0](https://github.com/user-attachments/assets/d21f2921-66e8-401e-90b5-dabc01b237f9)
 
 <!-- Glowing Header -->
 <p align="center">
@@ -64,8 +69,8 @@
 <!-- Repo Alive Statistics & Video Animation -->
 <h2 align="center">📊 Repo Alive Statistics</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bwmxmd254&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Bwmxmd254?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Exray_De_Lux&labell=Profile+Views&color=0e75b6&stylefor-the-baddge" alt="Profile views"/>
+  <img src="h="httpsimgishieldslds.io/github/followers/Bwmxmd254?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
   <img src="https://img.shields.io/github/stars/Bwmxmd254?label=GitHub+Stars&style=for-the-badge" alt="GitHub Stars"/>
 </p>
 
@@ -107,3 +112,5 @@
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
+print=(Lux_KE)
+
